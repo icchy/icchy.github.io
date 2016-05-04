@@ -1,0 +1,22 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               .Trash
+tagline:             'tech blog'
+description:         ''
+url:                 http://blog.tonkatsu.info
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              icchy
+  url:               https://twitter.com/icchyr
+  email:             icchyr@gmail.com
+
+# Custom vars
+# version:             1.0.0
