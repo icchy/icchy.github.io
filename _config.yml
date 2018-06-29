@@ -43,3 +43,5 @@ theme: minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+
+google_analytics: UA-77288945-1
