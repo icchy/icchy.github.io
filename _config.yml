@@ -45,3 +45,5 @@ plugins:
  - jekyll-seo-tag
 
 google_analytics: UA-77288945-1
+
+markdown: kramdown
